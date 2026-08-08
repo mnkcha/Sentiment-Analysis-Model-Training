@@ -1,5 +1,7 @@
 # Sentiment Analysis Model Training
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
 ## Overview
 
 This project demonstrates the complete workflow of sentiment analysis using Natural Language Processing (NLP) and Machine Learning. The project includes data loading, exploratory data analysis, text preprocessing, feature extraction, model training, and performance evaluation using Jupyter Notebooks.
