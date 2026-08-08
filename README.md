@@ -1,13 +1,38 @@
 # Sentiment Analysis Model Training
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4c72b0)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E)
+![NLTK](https://img.shields.io/badge/NLTK-Natural%20Language%20Processing-154f5c)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-Feature%20Extraction-green)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Classification-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-purple)
+---
+
 ## Overview
 
 This project demonstrates the complete workflow of sentiment analysis using Natural Language Processing (NLP) and Machine Learning. The project includes data loading, exploratory data analysis, text preprocessing, feature extraction, model training, and performance evaluation using Jupyter Notebooks.
 
 The primary objective is to classify text into sentiment categories using supervised machine learning techniques.
 
+---
+## Technologies & Techniques
+
+This project uses the following technologies and techniques:
+
+- **Python** — Core programming language
+- **Pandas & NumPy** — Data loading, manipulation, and numerical operations
+- **Matplotlib & Seaborn** — Data visualization and exploratory analysis
+- **SciPy** — Statistical and scientific computing
+- **NLTK (Natural Language Toolkit)** — Text preprocessing, tokenization, and stopword removal
+- **TF-IDF (Term Frequency–Inverse Document Frequency)** — Text feature extraction
+- **Scikit-learn** — Machine learning pipeline and model evaluation
+- **Logistic Regression** — Sentiment classification model
+- **Jupyter Notebook** — Development, experimentation, and analysis environment
 ---
 
 ## Repository Structure
